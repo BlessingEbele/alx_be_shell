@@ -1,0 +1,7 @@
+{
+    "python.testing.pytestArgs": [
+        "shell_permissions"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
